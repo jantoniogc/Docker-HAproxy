@@ -31,7 +31,7 @@ Stats
 
 The default URL for stats is http://CONTAINER_IP/admin?stats with username:password ser to auth:auth.
 
-[https://images.microbadger.com/badges/image/jantoniogc/docker-haproxy.svg](https://microbadger.com/images/jantoniogc/docker-haproxy "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/jantoniogc/docker-haproxy.svg)](https://microbadger.com/images/jantoniogc/docker-haproxy "Get your own image badge on microbadger.com")
 
 Authors
 
